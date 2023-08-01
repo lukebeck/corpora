@@ -1,0 +1,10 @@
+__pycache__
+.venv
+.DS_Store
+
+# AntConc corpus databases
+/databases
+
+# 
+/corpora/*/texts
+/corpora/*/tagged
